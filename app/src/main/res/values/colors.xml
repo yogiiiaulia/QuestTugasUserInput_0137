@@ -15,4 +15,7 @@
     <color name="grey_border">#BDBDBD</color>
     <color name="grey_disabled">#E0E0E0</color>
 
+    <!-- POPUP HASIL -->
+    <color name="result_card_bg">#FF000000</color>
+    <color name="result_card_text">#FFFFFFFF</color>
 </resources>

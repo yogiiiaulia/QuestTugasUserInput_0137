@@ -26,4 +26,11 @@
         <item>1 - 3 Tahun</item>
         <item>Lebih dari 3 Tahun</item>
     </string-array>
+
+    <!-- POPUP HASIL -->
+    <string name="result_name">Nama : %1$s</string>
+    <string name="result_email">Email : %1$s</string>
+    <string name="result_birth_date">Tanggal Lahir : %1$s</string>
+    <string name="result_experience">Experience : %1$s</string>
+    <string name="result_skill">Skill : %1$s</string>
 </resources>
