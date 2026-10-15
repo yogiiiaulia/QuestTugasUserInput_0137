@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="padding_screen">24.dp</dimen>
-    <dimen name="padding_card">20.dp</dimen>
-    <dimen name="spacing_small">8.dp</dimen>
-    <dimen name="spacing_medium">16.dp</dimen>
-    <dimen name="spacing_large">24.dp</dimen>
-    <dimen name="corner_radius">16.dp</dimen>
-    <dimen name="field_height">56.dp</dimen>
-    <dimen name="header_height">240.dp</dimen>
-    <dimen name="card_elevation">8.dp</dimen>
-    <dimen name="checkbox_size">20.dp</dimen>
+    <dimen name="padding_screen">24dp</dimen>
+    <dimen name="padding_card">20dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+    <dimen name="field_height">56dp</dimen>
+    <dimen name="header_height">240dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="checkbox_size">20dp</dimen>
+
+    <!-- TAMBAHAN -->
+    <dimen name="card_corner">32dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="text_title">28sp</dimen>
+    <dimen name="text_subtitle">12sp</dimen>
+    <dimen name="text_field">14sp</dimen>
+    <dimen name="text_label">14sp</dimen>
+    <dimen name="text_skill">12sp</dimen>
+    <dimen name="text_button">14sp</dimen>
 </resources>
