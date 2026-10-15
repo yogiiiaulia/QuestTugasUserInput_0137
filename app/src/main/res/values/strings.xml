@@ -16,4 +16,14 @@
     <string name="cd_header_image">Header Background</string>
     <string name="cd_calendar_icon">Calendar Icon</string>
     <string name="cd_dropdown_icon">Dropdown Icon</string>
+
+    <!-- TAMBAHAN -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Batal</string>
+    <string name="date_pattern">dd/MM/yyyy</string>
+    <string-array name="experience_options">
+        <item>Kurang dari 1 Tahun</item>
+        <item>1 - 3 Tahun</item>
+        <item>Lebih dari 3 Tahun</item>
+    </string-array>
 </resources>
