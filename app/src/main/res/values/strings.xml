@@ -13,5 +13,5 @@
     <string name="skill_web">Web</string>
 
     <string name="btn_proceed">Proceed</string>
-
+    <string name="cd_header_image">Header Background</string>
 </resources>
