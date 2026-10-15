@@ -15,4 +15,5 @@
     <string name="btn_proceed">Proceed</string>
     <string name="cd_header_image">Header Background</string>
     <string name="cd_calendar_icon">Calendar Icon</string>
+    <string name="cd_dropdown_icon">Dropdown Icon</string>
 </resources>
