@@ -20,8 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             T5Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
+                    Formbiodata(
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
